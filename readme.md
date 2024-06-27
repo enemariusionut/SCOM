@@ -1,6 +1,6 @@
 # SCOM
 
-Anything related to System Center Operations Manager (SCOM) that I find useful or interesting. Good luck!
+Anything related to System Center Operations Manager (SCOM) that I find useful or interesting. Best of luck!
 
 ## Contributing
 
